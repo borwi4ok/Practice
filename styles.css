@@ -1,0 +1,32 @@
+textarea{
+	margin-left: 5px;
+	padding: 4px;
+}
+textarea:hover{
+	color:#272727;
+	background-color: #BBBBBB; 
+}
+#login{
+	margin-left: 7px;
+}
+#ch{
+	margin-left: 50px;
+}
+#ch2{
+	margin-left: 14.8px;
+}
+pre{
+	font-family: serif;
+}
+#req{
+	width:210px;
+}
+#submit:hover{
+	box-shadow: 1px 1px 3px #777;
+}
+select:hover{
+	background-color: #9AB8E1;
+}
+input[type="button"]:hover{
+	box-shadow: 1px 1px 3px #777;
+}
