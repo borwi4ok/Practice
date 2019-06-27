@@ -1,0 +1,144 @@
+@font-face {
+	font-family: 'Segoe UI Regular';
+	src: url('/fonts/SegoeUI.eot');
+	src: url('SegoeUI.eot?#iefix') format('embedded-opentype'),
+	url('/fonts/SegoeUI.woff') format('woff'),
+	url('/fonts/SegoeUI.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+h1,h2,h3,h4 {
+	font-family: 'Segoe UI Regular';
+	color:white;
+}
+h1{
+	font-size: 64px;
+}
+h2{
+	font-size: 24px;
+}
+h3{
+	font-size: 20px;
+}
+.first__header{
+	background: #2A4FAC;
+	padding-top: 18px;
+	padding-bottom: 18px;
+}
+.search{
+	width:280px;
+	border:0;
+	border-radius: 16px;
+	height:38px;
+	background-color: #2F58C0;
+	margin-left: 35px;
+	outline: none;
+}
+.search[type="text"]::-webkit-input-placeholder {
+	padding-left: 10px;
+    color: #DDDDDD;
+    font-family: 'Segoe UI Regular';
+    font-size: 16px;
+ } 
+ .logo{
+ 	width: 300px;
+ 	margin-left: -70px;
+ }
+.headline__three{
+	margin-left:-20px;
+	padding-top:5px;
+}
+.second__header{
+	background-color: #2F58C0;
+	padding:;
+}
+ul,li{
+	display: block;
+	margin: 0;
+	padding: 0;
+
+}
+.menu__item{
+	color: white;
+	font-family: 'Segoe UI Regular';
+	font-size: 16px;
+	padding: 14px 20px 14px 20px;
+}
+.bac{
+	background: url(C:/Users/donno/Desktop/Practice/Task5/background.png) no-repeat;
+	height: 550px;
+}
+.education{
+	text-align: center;
+	padding: 50px 0 50px 0;
+}
+.welcome{
+	text-align: center;
+}
+.icon{
+	color: white;
+	font-family: 'Segoe UI Regular';
+	font-size: 16px;
+	padding: 150px 100px 30px 70px;
+}
+.parents{
+	padding-top:40px;
+	padding-right: 50px;
+	font-size: 20px;
+	font-weight: 700;
+	font-family: 'Segoe UI Regular';
+}
+.parents__div{
+	margin-left:100px;
+}
+.image{
+	width:364px;
+	padding: 10px;
+	border: 1px solid #ededed;
+	margin-right: 20px
+}
+.pictures{
+	padding:90px 0;
+}
+footer{
+	font-family: 'Segoe UI Regular';
+	height: 213px;
+}
+.contacts{
+	font-size: 20px;
+	color: #8D8D8D;
+	padding:10px 0;
+}
+.footer{
+	background-color:#333333;
+}
+th,td{
+	color:#8D8D8D;
+	font-family: 'Segoe UI Regular';
+	font-size: 16px;
+	padding:10px 0;
+}
+td{
+	color: white;
+}
+.btm__item{
+	color:white;
+	padding-right: 15px;
+
+}
+.first__btm__item{
+	margin-left: -90px;
+}
+.depart{
+	color:#8D8D8D;
+}
+.depart__div{
+	margin-top: 15px;
+}
+.rules{
+	color:white;
+}
+.rules__1{
+	margin-top: -10px;
+	color:white;
+}
